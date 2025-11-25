@@ -1,0 +1,501 @@
+codigo,nombre,apellido,comuna,rut,fecha_nacimiento,religion,tarjeta_beneficios,tipo_cliente,promedio_compras,tipo_alimentacion,tiempo_permanencia_min
+1,felipe,fuentes,vitacura,1931858-3,1971-10-04,atea,si,3,397192,normal,15
+2,javiera,torres,providencia,11577002-0,1974-04-07,testigos de jehová,no,4,36830,no aplica,23
+3,catalina,vargas,vitacura,13815734-2,1983-05-06,atea,si,5,282014,vegetariano,20
+4,daniel,gonzález,conchalí,11886940-0,1999-08-02,agnóstica,si,2,411091,vegetariano,31
+5,francisca,pérez,las condes,10052261-6,1996-03-22,testigos de jehová,no,3,804383,normal,33
+6,francisca,fuentes,renca,15464064-9,1991-10-28,católica,no,1,23105,no aplica,55
+7,maría,gonzález,las condes,8332524-0,1990-11-18,mormona,si,3,616131,vegano,60
+8,francisca,contreras,providencia,12919280-1,1992-10-10,testigos de jehová,no,5,113022,normal,37
+9,camila,vargas,vitacura,18516059-9,1991-11-16,atea,si,3,480291,no aplica,49
+10,sebastián,contreras,providencia,1094578-k,1978-07-10,agnóstica,no,4,221219,no aplica,25
+11,daniel,silva,conchalí,6332931-2,1975-03-22,agnóstica,si,4,717537,vegetariano,56
+12,carolina,contreras,las condes,11123176-1,1984-10-21,evangélica,si,2,594132,vegetariano,46
+13,maría,morales,providencia,16203131-7,1989-06-05,testigos de jehová,no,3,531171,no aplica,11
+14,tomás,muñoz,vitacura,3809545-5,1991-01-17,atea,no,3,264756,vegano,58
+15,daniel,rodríguez,renca,17069661-1,1980-01-02,mormona,si,1,505813,normal,55
+16,francisca,fuentes,providencia,5908140-3,1993-10-02,evangélica,no,5,413316,no aplica,43
+17,javiera,vargas,vitacura,14263321-3,1996-06-03,católica,no,1,704141,no aplica,44
+18,carolina,martínez,vitacura,6773639-7,1978-03-12,atea,si,4,884032,no aplica,16
+19,diego,gonzález,las condes,12275812-5,2000-12-06,mormona,si,4,190359,vegetariano,24
+20,javiera,torres,providencia,14691846-8,1979-09-23,atea,si,4,233465,vegano,41
+21,juan,silva,las condes,13097922-k,1974-09-13,católica,no,3,489120,normal,40
+22,maría,silva,vitacura,10009674-9,1996-07-12,mormona,si,4,198902,no aplica,32
+23,maría,rodríguez,renca,1224124-0,1992-08-04,evangélica,no,3,900358,vegetariano,29
+24,camila,rojas,providencia,24892370-9,1996-07-24,mormona,si,4,395723,vegano,53
+25,camila,pérez,providencia,3582157-0,1981-07-01,católica,si,2,976782,vegetariano,55
+26,daniel,morales,conchalí,24804841-7,1989-03-14,agnóstica,no,5,839209,vegano,17
+27,daniel,rojas,vitacura,7333007-6,1995-01-03,agnóstica,si,2,810752,normal,41
+28,carolina,lópez,renca,12749805-9,1991-06-13,agnóstica,no,5,156405,normal,41
+29,pedro,soto,providencia,4418405-2,1995-09-05,evangélica,si,5,736638,vegano,42
+30,sebastián,rodríguez,las condes,4902389-8,1987-08-09,evangélica,si,5,644311,vegano,43
+31,diego,rodríguez,las condes,16169589-0,1974-06-23,agnóstica,si,2,541816,vegetariano,28
+32,tomás,vargas,conchalí,9445066-7,1979-01-23,evangélica,si,5,764816,normal,27
+33,felipe,vargas,vitacura,1851519-9,1999-12-11,católica,si,2,354297,vegetariano,58
+34,maría,fuentes,las condes,12739429-6,1976-10-03,católica,si,1,173850,vegano,46
+35,tomás,gonzález,providencia,14104132-0,1982-08-15,evangélica,no,2,271605,normal,33
+36,javiera,torres,renca,20366966-6,1971-04-22,testigos de jehová,no,3,378067,normal,49
+37,tomás,vargas,conchalí,17732984-3,1974-04-22,evangélica,si,4,497113,normal,60
+38,daniel,gonzález,renca,20263247-5,1971-11-12,atea,si,3,42966,vegano,33
+39,camila,gonzález,las condes,20034604-1,1988-06-18,testigos de jehová,no,2,294678,vegetariano,28
+40,ana,martínez,providencia,4205495-k,1985-01-22,mormona,no,4,63089,normal,22
+41,javiera,torres,conchalí,2016547-2,1986-10-01,agnóstica,si,2,774181,vegetariano,29
+42,pedro,soto,vitacura,20606386-6,1977-12-07,testigos de jehová,no,2,820911,no aplica,56
+43,javiera,muñoz,vitacura,5525157-6,1989-03-11,evangélica,no,5,231575,normal,56
+44,sebastián,gonzález,vitacura,6780340-k,1995-10-03,atea,no,2,914008,no aplica,15
+45,catalina,gonzález,renca,22005462-4,1980-10-16,mormona,no,4,476224,normal,36
+46,catalina,vargas,vitacura,17154041-0,1970-07-24,agnóstica,si,5,151318,normal,30
+47,maría,fuentes,conchalí,8469827-k,1979-12-15,agnóstica,no,3,819949,normal,15
+48,maría,díaz,vitacura,6631073-6,1998-05-16,agnóstica,si,3,694398,vegano,20
+49,tomás,silva,renca,23957490-4,1976-08-19,testigos de jehová,no,2,136587,no aplica,22
+50,maría,rojas,vitacura,23110618-9,1989-02-16,católica,no,1,833412,normal,35
+51,tomás,vargas,providencia,15590313-9,1997-09-08,atea,si,2,150795,vegetariano,31
+52,catalina,morales,renca,11281841-3,1977-01-13,testigos de jehová,no,3,952147,vegetariano,15
+53,sebastián,lópez,las condes,19280545-7,1982-08-25,mormona,no,5,973431,vegetariano,24
+54,ana,silva,conchalí,14134029-8,1984-06-21,católica,si,2,48908,no aplica,40
+55,sebastián,lópez,vitacura,9831946-8,1991-04-03,mormona,si,5,936270,vegano,56
+56,sebastián,silva,renca,9968758-4,1971-10-17,testigos de jehová,si,1,314467,no aplica,57
+57,juan,contreras,las condes,21764166-7,1987-11-20,evangélica,no,4,816415,vegano,45
+58,diego,contreras,las condes,6776270-3,1995-03-11,atea,si,2,525814,vegetariano,18
+59,pedro,morales,conchalí,19024070-3,1999-01-18,agnóstica,no,5,723360,normal,60
+60,tomás,soto,conchalí,3499260-6,1999-02-03,mormona,no,2,691100,vegano,39
+61,juan,soto,las condes,7147590-5,1987-07-23,evangélica,si,2,341488,vegano,11
+62,ana,rodríguez,conchalí,9402872-8,1976-08-17,mormona,si,4,550706,vegetariano,48
+63,juan,pérez,vitacura,13638153-9,2000-06-01,testigos de jehová,si,5,970380,vegetariano,26
+64,catalina,lópez,las condes,19702781-9,1996-09-04,atea,no,2,746005,vegano,26
+65,diego,gonzález,providencia,4531020-5,1970-04-24,evangélica,si,4,492850,no aplica,13
+66,sebastián,lópez,renca,18259427-k,1985-01-21,católica,si,4,694209,normal,50
+67,maría,rodríguez,renca,11179958-k,1980-01-05,agnóstica,no,3,585694,no aplica,56
+68,daniel,muñoz,las condes,14878567-8,1974-08-08,agnóstica,no,4,57768,no aplica,38
+69,catalina,silva,renca,8049622-2,1977-07-08,agnóstica,no,5,61587,no aplica,28
+70,sebastián,soto,renca,6388922-9,1978-08-22,testigos de jehová,no,1,792326,normal,52
+71,diego,martínez,las condes,1978617-k,1996-10-27,agnóstica,si,4,225354,vegetariano,27
+72,catalina,torres,las condes,19388909-3,1976-09-20,testigos de jehová,si,3,237354,normal,46
+73,daniel,torres,las condes,24743472-0,1985-10-03,testigos de jehová,no,5,173956,normal,50
+74,carolina,pérez,conchalí,24419912-7,1996-05-05,mormona,no,5,229081,vegano,38
+75,tomás,soto,renca,8030593-1,1983-03-11,atea,si,4,823924,no aplica,16
+76,sebastián,vargas,conchalí,19559226-8,1987-11-28,católica,si,4,969002,vegetariano,54
+77,javiera,soto,vitacura,13505942-0,1973-01-10,agnóstica,no,3,143067,vegetariano,46
+78,diego,vargas,las condes,5643154-3,1975-06-22,testigos de jehová,no,4,485701,normal,38
+79,carolina,lópez,renca,1295698-3,1990-03-02,agnóstica,si,4,603056,vegano,42
+80,juan,díaz,renca,20592667-4,1990-10-16,católica,si,3,238000,vegetariano,21
+81,felipe,rojas,vitacura,5255439-k,1986-11-05,mormona,no,2,637300,normal,56
+82,sebastián,soto,providencia,11163655-9,1976-05-09,agnóstica,si,3,888618,normal,11
+83,ana,pérez,providencia,10744505-6,1993-12-10,testigos de jehová,no,3,734047,vegetariano,21
+84,daniel,rojas,providencia,7119001-3,1971-05-10,mormona,si,4,473736,normal,10
+85,felipe,silva,providencia,12087739-9,1975-05-16,católica,si,1,779918,normal,48
+86,carolina,torres,renca,1094109-1,1989-05-19,agnóstica,si,1,45211,vegano,34
+87,felipe,lópez,providencia,11676466-0,1998-11-24,atea,no,4,687791,vegetariano,55
+88,diego,lópez,conchalí,24179116-5,1972-12-27,mormona,si,4,779933,normal,20
+89,felipe,martínez,vitacura,1768036-6,1984-11-02,católica,si,5,293281,normal,55
+90,ana,gonzález,providencia,21763283-8,1990-06-06,evangélica,no,3,45456,no aplica,44
+91,juan,rodríguez,providencia,1552359-k,1973-07-02,evangélica,no,1,89017,normal,25
+92,maría,rodríguez,vitacura,8763332-2,1973-12-11,mormona,si,3,831277,no aplica,18
+93,juan,pérez,las condes,10434213-2,1988-09-01,católica,no,2,878632,vegano,56
+94,pedro,muñoz,conchalí,2378860-8,1993-02-15,agnóstica,no,3,241416,vegano,58
+95,francisca,contreras,conchalí,13567192-4,1997-06-04,atea,si,3,974262,normal,28
+96,javiera,contreras,conchalí,8620154-2,1975-09-17,atea,si,2,204696,normal,48
+97,felipe,vargas,conchalí,15824271-0,1987-09-08,agnóstica,si,5,375814,vegetariano,16
+98,camila,rodríguez,renca,10700900-0,1986-12-01,agnóstica,si,2,574761,no aplica,59
+99,ana,lópez,vitacura,21502931-k,1978-07-26,mormona,no,4,791544,normal,48
+100,ana,muñoz,providencia,11294669-1,1977-02-06,evangélica,no,2,967512,vegano,12
+101,camila,soto,las condes,4313465-5,1998-10-14,católica,si,5,861064,vegano,57
+102,valentina,gonzález,las condes,1483691-8,1998-06-15,atea,si,5,21410,normal,35
+103,pedro,torres,conchalí,8221368-6,1990-06-17,atea,no,3,639903,vegano,57
+104,pedro,muñoz,providencia,17091800-2,1981-07-07,testigos de jehová,no,5,588438,normal,45
+105,maría,fuentes,renca,12159203-7,1983-04-09,atea,no,2,916162,no aplica,13
+106,felipe,vargas,las condes,5828812-8,1993-05-18,testigos de jehová,no,2,742597,vegano,20
+107,juan,gonzález,conchalí,8440222-2,1981-12-07,mormona,si,2,604442,normal,17
+108,pedro,gonzález,providencia,10434697-9,1997-08-14,atea,si,5,806914,normal,19
+109,valentina,fuentes,vitacura,23300742-0,1975-06-04,agnóstica,no,4,793534,no aplica,36
+110,diego,fuentes,providencia,12959300-8,1989-08-05,evangélica,si,3,729754,normal,43
+111,felipe,pérez,las condes,16182360-0,1986-02-06,testigos de jehová,si,2,720046,vegano,13
+112,catalina,torres,conchalí,18181991-k,1974-04-13,católica,si,1,830064,vegano,10
+113,maría,torres,providencia,20814629-7,1997-01-13,testigos de jehová,no,4,397041,no aplica,44
+114,catalina,martínez,conchalí,9299324-8,1993-10-27,católica,no,3,77526,vegetariano,41
+115,felipe,silva,providencia,15992039-9,1984-04-11,evangélica,no,5,215988,normal,34
+116,valentina,lópez,conchalí,1923577-7,1990-09-18,atea,no,2,564228,no aplica,43
+117,sebastián,rodríguez,renca,22263184-k,1972-12-23,agnóstica,si,2,961715,vegano,43
+118,camila,silva,vitacura,17788627-0,1977-01-18,agnóstica,no,4,322401,vegetariano,30
+119,diego,díaz,las condes,19887598-8,1981-07-09,testigos de jehová,si,3,103959,vegano,42
+120,felipe,morales,las condes,11007336-4,1994-05-04,atea,no,2,610626,normal,51
+121,maría,torres,vitacura,17189155-8,1995-04-13,católica,si,1,371151,normal,42
+122,ana,díaz,providencia,8863235-4,1978-10-03,mormona,si,1,128001,vegetariano,53
+123,catalina,vargas,conchalí,7096606-9,1979-12-11,mormona,si,3,559434,normal,19
+124,pedro,contreras,renca,6052667-2,1979-08-24,católica,si,4,825601,vegano,35
+125,juan,contreras,conchalí,3746004-4,1980-07-18,atea,si,4,6066,vegano,48
+126,juan,lópez,renca,4318629-9,1982-10-02,agnóstica,si,3,501318,normal,27
+127,diego,pérez,conchalí,4935711-7,1988-06-04,mormona,no,3,477235,vegano,31
+128,carolina,lópez,vitacura,9849104-k,1997-09-28,atea,no,2,237065,vegano,48
+129,daniel,morales,las condes,17408415-7,1992-02-12,atea,si,1,471302,vegetariano,59
+130,juan,gonzález,renca,19963147-0,1972-07-05,testigos de jehová,si,3,407734,vegetariano,55
+131,pedro,rojas,las condes,12879162-0,1981-03-08,evangélica,no,2,278896,no aplica,42
+132,camila,soto,las condes,20367678-6,1974-10-10,agnóstica,si,2,189657,normal,48
+133,maría,lópez,renca,6211631-5,1985-01-27,católica,si,1,148892,vegetariano,56
+134,maría,rodríguez,vitacura,9304515-7,1989-10-20,agnóstica,si,2,142411,no aplica,36
+135,catalina,rodríguez,vitacura,2780782-8,1983-11-20,evangélica,no,1,455324,normal,58
+136,tomás,muñoz,renca,23762016-k,1996-08-06,mormona,si,4,221885,vegetariano,52
+137,camila,díaz,renca,22237790-0,1981-09-19,evangélica,si,4,942107,vegetariano,59
+138,felipe,silva,providencia,24370149-k,1998-03-03,católica,si,5,842962,vegano,11
+139,diego,fuentes,vitacura,21409302-2,2000-05-19,atea,si,3,3454,normal,23
+140,sebastián,muñoz,las condes,17523076-9,1972-05-18,atea,no,3,658004,no aplica,15
+141,camila,lópez,vitacura,19589215-6,1996-05-10,católica,si,1,301958,normal,22
+142,tomás,contreras,conchalí,4641859-k,1973-11-10,agnóstica,no,4,733817,normal,60
+143,felipe,morales,providencia,12505449-8,1970-08-23,mormona,no,1,715822,vegano,22
+144,juan,díaz,providencia,17943786-4,1982-05-13,mormona,si,2,53439,no aplica,13
+145,tomás,rojas,conchalí,7576711-0,2000-07-19,evangélica,si,2,12970,vegetariano,25
+146,valentina,vargas,vitacura,12775318-0,1984-04-08,evangélica,si,2,187908,vegano,41
+147,pedro,martínez,las condes,20673404-3,1996-02-03,mormona,si,3,571041,vegano,12
+148,camila,lópez,conchalí,19995114-9,1976-06-16,agnóstica,si,1,495608,vegano,42
+149,catalina,muñoz,renca,2648480-4,1993-05-25,atea,si,4,75288,no aplica,59
+150,diego,vargas,vitacura,4188708-7,1970-05-11,atea,si,5,637450,vegetariano,19
+151,diego,morales,providencia,7043737-6,1986-07-07,mormona,si,4,655221,vegano,45
+152,francisca,gonzález,vitacura,18979307-3,1978-01-18,atea,no,5,819985,vegano,22
+153,juan,pérez,vitacura,2669408-6,1983-06-21,católica,si,4,346446,no aplica,16
+154,catalina,pérez,las condes,23931974-2,1999-10-17,mormona,si,1,187511,normal,13
+155,sebastián,pérez,vitacura,19633439-4,1991-12-17,católica,si,5,599442,vegetariano,21
+156,javiera,fuentes,providencia,12014339-5,1973-10-28,católica,no,4,601559,normal,14
+157,felipe,vargas,renca,20286838-k,1988-02-02,católica,no,3,89069,vegetariano,10
+158,daniel,morales,vitacura,21079301-1,1989-09-01,testigos de jehová,no,2,699148,vegetariano,33
+159,ana,lópez,renca,24308925-5,1995-09-21,mormona,no,3,915714,normal,30
+160,catalina,rodríguez,renca,23984901-6,1995-09-18,atea,si,1,235959,vegetariano,19
+161,valentina,gonzález,providencia,16349842-1,1990-04-23,testigos de jehová,no,3,980415,no aplica,35
+162,diego,muñoz,conchalí,21754401-7,1979-07-12,agnóstica,si,4,884537,no aplica,60
+163,ana,martínez,renca,11710675-6,1986-06-02,evangélica,no,4,903185,vegano,16
+164,carolina,silva,vitacura,5031723-4,1991-12-27,atea,no,2,792922,no aplica,50
+165,tomás,morales,vitacura,19695215-2,1977-01-13,católica,si,2,365714,normal,55
+166,pedro,torres,providencia,10903985-3,1978-03-14,testigos de jehová,no,5,156109,vegetariano,55
+167,camila,morales,las condes,7419472-9,1973-05-07,agnóstica,no,2,704321,vegano,18
+168,sebastián,lópez,las condes,5494421-7,1976-04-09,testigos de jehová,no,1,200756,vegetariano,39
+169,tomás,gonzález,providencia,14399909-2,1998-07-25,testigos de jehová,si,4,662642,vegetariano,36
+170,daniel,torres,las condes,5274048-7,1991-05-17,católica,no,5,855101,vegano,28
+171,catalina,fuentes,providencia,9465663-k,1986-12-01,mormona,no,1,495892,normal,12
+172,ana,díaz,las condes,14927982-2,1975-09-17,atea,no,1,336368,no aplica,16
+173,ana,soto,renca,1102746-6,1993-10-27,mormona,si,5,705066,normal,26
+174,catalina,pérez,vitacura,4554863-5,1997-07-23,católica,si,3,951399,no aplica,49
+175,javiera,muñoz,providencia,8377656-0,1999-08-24,evangélica,no,1,550679,vegetariano,22
+176,pedro,rodríguez,conchalí,11850053-9,1997-05-06,atea,no,5,315276,no aplica,43
+177,javiera,vargas,las condes,14280873-0,1975-08-15,católica,si,4,388854,vegetariano,46
+178,pedro,soto,conchalí,15570932-4,1991-09-06,católica,no,2,78786,no aplica,53
+179,camila,rojas,providencia,16162235-4,1978-06-04,agnóstica,no,2,634893,vegano,53
+180,pedro,muñoz,las condes,11398945-9,1970-06-02,católica,si,2,239839,vegetariano,56
+181,carolina,rodríguez,renca,16624160-k,1985-03-26,evangélica,si,2,818130,normal,23
+182,catalina,fuentes,las condes,5002548-9,1970-07-22,católica,si,5,151326,vegano,27
+183,carolina,gonzález,renca,2209910-8,1975-02-04,atea,si,2,744544,vegetariano,13
+184,diego,rodríguez,renca,5409614-3,2000-11-23,católica,no,1,844343,vegano,38
+185,carolina,vargas,providencia,13312779-8,1986-05-05,católica,no,5,266495,normal,50
+186,catalina,lópez,conchalí,6905777-2,1997-03-21,atea,si,1,193989,vegano,36
+187,carolina,vargas,vitacura,19826901-8,1995-10-13,católica,si,3,92187,vegetariano,21
+188,diego,muñoz,vitacura,3186820-3,1978-12-07,mormona,no,1,836969,vegano,28
+189,ana,silva,las condes,17864278-2,1996-02-26,atea,si,4,357836,normal,42
+190,felipe,torres,vitacura,5594391-5,1975-06-10,atea,si,4,220829,no aplica,38
+191,pedro,rodríguez,conchalí,18182511-1,1987-09-07,agnóstica,si,4,430068,vegano,59
+192,camila,fuentes,conchalí,17441155-7,1979-03-26,evangélica,no,4,899428,no aplica,25
+193,maría,torres,renca,1655898-2,2000-05-21,evangélica,si,1,328059,normal,11
+194,camila,silva,providencia,1314658-6,1999-12-28,testigos de jehová,si,2,579079,no aplica,20
+195,daniel,torres,vitacura,5390998-1,1981-10-01,católica,no,1,178237,vegano,55
+196,diego,fuentes,renca,13916927-1,1982-12-18,testigos de jehová,si,5,852644,normal,51
+197,camila,fuentes,providencia,20395070-5,1991-02-03,agnóstica,no,5,59872,vegano,53
+198,maría,pérez,providencia,6271719-k,1972-10-19,evangélica,si,3,842498,vegano,47
+199,tomás,pérez,renca,13998412-9,1977-02-06,evangélica,si,4,510022,normal,41
+200,francisca,silva,providencia,10796448-7,1994-02-06,mormona,no,4,120270,normal,13
+201,javiera,torres,conchalí,15563953-9,1985-07-02,católica,si,4,684836,vegetariano,10
+202,ana,martínez,vitacura,4571022-k,1992-08-17,mormona,no,3,74733,no aplica,27
+203,valentina,lópez,las condes,15112927-7,1988-11-27,evangélica,no,2,85723,no aplica,36
+204,diego,torres,vitacura,3941797-9,1992-02-15,mormona,no,3,254195,vegano,18
+205,francisca,vargas,providencia,6582377-2,1973-03-02,atea,si,1,701842,normal,52
+206,felipe,contreras,las condes,13031102-4,1989-07-05,evangélica,no,3,842715,no aplica,29
+207,francisca,rojas,las condes,1288781-7,1984-11-02,mormona,si,1,395777,vegetariano,36
+208,diego,morales,renca,22845228-9,1993-02-08,católica,no,2,326919,vegano,56
+209,carolina,torres,renca,8170805-3,1971-01-18,testigos de jehová,si,2,611867,vegano,12
+210,francisca,muñoz,conchalí,4375133-6,1985-12-07,atea,no,5,454108,vegano,54
+211,ana,rojas,las condes,3674147-3,1978-06-24,mormona,no,5,716464,no aplica,38
+212,camila,vargas,renca,2612055-1,1983-09-14,atea,si,5,349684,vegano,23
+213,camila,contreras,conchalí,11818682-6,1974-11-02,mormona,no,1,53579,normal,51
+214,camila,rojas,providencia,12533171-8,1970-09-12,agnóstica,si,4,982710,normal,56
+215,catalina,lópez,providencia,15927663-5,1983-01-27,testigos de jehová,no,4,704399,vegano,11
+216,maría,soto,vitacura,14231450-9,1981-06-13,evangélica,no,3,161985,vegetariano,27
+217,ana,muñoz,providencia,13715952-k,1981-04-19,evangélica,no,1,10299,vegetariano,21
+218,ana,martínez,vitacura,17803437-5,1998-03-17,católica,no,5,903257,vegano,59
+219,maría,silva,vitacura,13796309-4,1988-04-13,evangélica,no,4,971881,vegetariano,38
+220,javiera,contreras,renca,4257428-7,1972-12-01,testigos de jehová,si,1,879881,vegano,38
+221,carolina,silva,las condes,2557141-k,1996-12-28,católica,si,3,565994,normal,21
+222,francisca,martínez,las condes,7771596-7,1974-11-08,católica,no,2,215487,no aplica,50
+223,camila,lópez,las condes,20642753-1,1994-04-24,testigos de jehová,si,1,570343,normal,36
+224,ana,vargas,providencia,1385018-6,1978-09-20,mormona,si,3,19885,normal,12
+225,valentina,soto,las condes,12641872-8,1994-11-14,mormona,si,1,917821,vegetariano,30
+226,catalina,morales,providencia,15187693-5,1978-02-27,católica,no,5,191893,normal,17
+227,pedro,martínez,vitacura,21386372-k,1978-09-09,atea,no,1,704711,normal,19
+228,sebastián,pérez,vitacura,8181339-6,1979-11-24,mormona,no,1,371665,vegetariano,52
+229,ana,torres,vitacura,8368085-7,1980-01-24,evangélica,si,4,614948,vegano,48
+230,pedro,martínez,providencia,22823275-0,1972-11-21,evangélica,no,5,242152,normal,54
+231,catalina,pérez,providencia,13506214-6,1987-03-13,evangélica,no,5,294352,vegano,38
+232,daniel,torres,renca,24361788-k,1990-12-22,atea,si,4,868439,vegano,19
+233,tomás,contreras,providencia,13142560-0,1986-08-18,testigos de jehová,no,2,34844,no aplica,39
+234,javiera,rojas,providencia,4993033-k,1975-07-18,atea,no,5,779526,vegano,21
+235,felipe,rojas,conchalí,20789434-6,1985-01-05,mormona,si,1,897522,vegetariano,47
+236,javiera,rodríguez,las condes,10567326-4,1997-10-01,atea,si,4,307609,normal,48
+237,tomás,torres,renca,5556505-8,1976-10-14,atea,si,4,764325,no aplica,27
+238,diego,martínez,conchalí,14694459-0,1996-02-06,evangélica,si,4,247718,vegano,18
+239,pedro,díaz,conchalí,13694942-k,1992-05-12,testigos de jehová,si,1,50308,vegano,35
+240,camila,morales,renca,17810942-1,1972-03-23,evangélica,no,2,232886,no aplica,53
+241,juan,soto,renca,20414210-6,1984-01-15,mormona,no,3,49355,vegetariano,60
+242,ana,soto,renca,12491959-2,2000-04-24,mormona,no,2,787034,no aplica,34
+243,javiera,vargas,providencia,7662149-7,1996-11-28,católica,si,1,210866,vegetariano,31
+244,diego,silva,vitacura,10372004-4,1982-08-25,católica,si,5,222516,normal,19
+245,ana,rodríguez,providencia,7679991-1,1972-10-23,evangélica,no,3,409189,vegano,36
+246,ana,martínez,conchalí,3793221-3,1983-08-25,testigos de jehová,si,4,165121,no aplica,44
+247,camila,fuentes,conchalí,3376453-7,1980-12-15,testigos de jehová,si,1,938177,vegano,41
+248,pedro,contreras,renca,7931506-0,1984-10-14,atea,no,2,221035,normal,45
+249,diego,gonzález,conchalí,4757433-1,1973-12-01,atea,si,1,522053,normal,45
+250,juan,rojas,las condes,11143075-6,1979-04-03,evangélica,no,4,260999,vegano,16
+251,pedro,soto,providencia,21085706-0,1984-05-23,atea,no,4,211082,normal,15
+252,pedro,fuentes,conchalí,7457586-2,1974-04-27,testigos de jehová,si,1,411474,vegetariano,56
+253,sebastián,vargas,conchalí,16612870-6,1994-07-13,agnóstica,si,4,160940,vegetariano,19
+254,carolina,muñoz,vitacura,5208592-6,1976-09-05,mormona,si,4,478374,normal,20
+255,javiera,gonzález,conchalí,11055887-2,1990-04-05,evangélica,no,1,208236,no aplica,29
+256,sebastián,lópez,las condes,17551769-3,1996-02-07,agnóstica,no,1,621966,vegano,47
+257,javiera,lópez,conchalí,13661799-0,1978-11-14,agnóstica,no,3,2893,vegetariano,17
+258,valentina,vargas,renca,23076311-9,2000-10-22,testigos de jehová,no,3,505267,normal,39
+259,carolina,rodríguez,renca,2090056-3,1976-10-11,agnóstica,no,2,339260,normal,13
+260,carolina,torres,las condes,3344891-0,1991-04-18,atea,si,3,485252,no aplica,13
+261,daniel,torres,providencia,13814569-7,2000-05-03,mormona,no,5,563476,no aplica,28
+262,catalina,silva,conchalí,14637713-0,2000-01-02,mormona,no,2,363196,normal,17
+263,carolina,gonzález,conchalí,14020670-9,1987-05-06,atea,no,4,148120,normal,24
+264,sebastián,muñoz,conchalí,22367571-9,1999-06-12,testigos de jehová,si,1,824264,no aplica,51
+265,felipe,rojas,renca,23095667-7,1972-12-24,atea,no,3,163400,vegetariano,23
+266,catalina,torres,vitacura,18273863-8,1994-12-23,atea,si,3,380628,no aplica,37
+267,juan,fuentes,vitacura,20444707-1,1982-06-20,agnóstica,no,2,951914,vegetariano,26
+268,diego,silva,renca,24420561-5,1975-06-19,mormona,no,3,674881,vegano,31
+269,juan,gonzález,providencia,20532614-6,1977-10-05,testigos de jehová,si,3,105846,vegetariano,22
+270,daniel,martínez,conchalí,17385836-1,1988-09-19,evangélica,si,2,661295,vegano,54
+271,pedro,fuentes,las condes,16089130-0,1982-03-25,evangélica,si,1,500926,no aplica,20
+272,felipe,vargas,providencia,10995266-4,1995-04-26,mormona,si,2,129957,normal,51
+273,diego,torres,conchalí,21042110-6,1997-06-28,evangélica,si,1,423396,normal,29
+274,tomás,contreras,conchalí,9258950-1,1999-03-05,evangélica,no,1,632059,vegetariano,30
+275,francisca,lópez,vitacura,7870073-4,1989-06-20,agnóstica,si,4,159130,vegetariano,41
+276,diego,silva,vitacura,13537618-3,1999-05-17,atea,no,3,377991,normal,56
+277,felipe,martínez,conchalí,22601498-5,1977-12-08,mormona,si,5,303208,normal,45
+278,sebastián,contreras,renca,14981576-7,1983-06-20,atea,no,5,197552,no aplica,27
+279,tomás,lópez,providencia,10982172-1,2000-04-25,mormona,si,4,784367,no aplica,20
+280,tomás,vargas,conchalí,17753782-9,1975-08-04,mormona,si,3,479131,vegano,58
+281,javiera,silva,providencia,13048703-3,1993-03-05,católica,si,3,297387,vegetariano,14
+282,javiera,fuentes,providencia,1332074-8,2000-01-21,evangélica,si,3,899010,vegetariano,35
+283,daniel,morales,vitacura,23468244-k,1975-03-11,mormona,si,5,974885,vegano,26
+284,carolina,vargas,renca,19867449-4,1981-09-16,evangélica,si,1,126262,vegano,40
+285,sebastián,rojas,las condes,14128932-2,1993-05-21,evangélica,no,4,398130,vegetariano,44
+286,francisca,muñoz,renca,21293428-3,1981-10-08,católica,si,5,877291,no aplica,40
+287,carolina,gonzález,providencia,17420991-k,1986-08-07,mormona,no,5,801580,no aplica,36
+288,tomás,pérez,renca,1037331-k,1970-09-03,evangélica,no,4,737753,no aplica,36
+289,pedro,pérez,providencia,20997101-1,1986-07-26,católica,si,5,315549,no aplica,24
+290,valentina,contreras,providencia,5054008-1,1993-11-19,agnóstica,si,1,992738,normal,12
+291,tomás,fuentes,las condes,12330658-9,1986-05-13,atea,si,3,48614,normal,39
+292,juan,vargas,vitacura,15704942-9,1980-03-25,mormona,si,3,251953,vegano,57
+293,felipe,morales,vitacura,17732798-0,1991-07-20,agnóstica,si,1,615829,vegano,52
+294,camila,lópez,conchalí,22711988-8,1995-06-13,católica,no,1,87764,no aplica,46
+295,carolina,lópez,renca,16336316-k,1995-11-28,testigos de jehová,si,3,775847,no aplica,18
+296,felipe,muñoz,renca,14393244-3,1995-04-28,mormona,no,5,353433,vegetariano,36
+297,daniel,muñoz,providencia,11708770-0,1996-04-02,testigos de jehová,si,5,290081,vegetariano,18
+298,catalina,rojas,conchalí,17752248-1,1973-05-17,testigos de jehová,no,4,820598,normal,54
+299,pedro,rodríguez,providencia,2360554-6,1972-11-16,agnóstica,si,1,740154,normal,57
+300,carolina,lópez,conchalí,12387447-1,1985-12-21,católica,no,5,271485,no aplica,48
+301,maría,muñoz,vitacura,14154594-9,1970-01-05,mormona,si,1,503908,normal,47
+302,carolina,rojas,renca,17114553-8,1972-07-22,evangélica,si,5,174631,normal,56
+303,javiera,morales,providencia,2195508-6,1985-11-18,testigos de jehová,no,2,185403,no aplica,60
+304,maría,rodríguez,las condes,21538575-2,1977-10-23,agnóstica,no,3,48310,vegano,19
+305,daniel,pérez,las condes,24414759-3,1994-12-18,evangélica,no,3,157589,normal,14
+306,diego,gonzález,renca,6634486-k,1986-03-26,mormona,no,1,40644,normal,58
+307,felipe,silva,providencia,21692900-4,1976-04-17,atea,si,4,440916,normal,12
+308,felipe,pérez,vitacura,2748851-k,1978-06-26,testigos de jehová,si,4,94587,vegetariano,37
+309,diego,morales,renca,16897622-4,1997-05-25,testigos de jehová,no,4,752203,normal,24
+310,juan,morales,vitacura,1973565-6,1983-11-03,testigos de jehová,si,4,516630,vegetariano,28
+311,valentina,muñoz,providencia,5269820-0,1992-07-21,mormona,si,4,410464,vegetariano,44
+312,tomás,rodríguez,vitacura,5301342-2,2000-07-14,testigos de jehová,si,4,564279,vegano,34
+313,javiera,muñoz,las condes,9527725-k,1993-03-25,evangélica,no,5,927750,no aplica,14
+314,maría,martínez,renca,6483524-6,1974-03-13,atea,no,3,644443,vegano,13
+315,javiera,martínez,las condes,3154520-k,1989-07-02,evangélica,si,2,817310,no aplica,30
+316,valentina,vargas,vitacura,1137051-9,1970-03-17,atea,si,2,463940,normal,34
+317,ana,morales,conchalí,7452683-7,1988-09-04,mormona,si,3,291009,vegano,51
+318,maría,pérez,providencia,11112892-8,1992-11-22,atea,no,1,785818,normal,24
+319,francisca,soto,las condes,21412909-4,1989-08-02,católica,no,3,764285,vegano,29
+320,francisca,vargas,vitacura,15950315-1,1979-01-05,testigos de jehová,si,2,245574,no aplica,17
+321,tomás,martínez,las condes,14517631-k,1996-11-04,católica,no,1,187851,normal,45
+322,valentina,fuentes,renca,13013294-4,1984-06-11,agnóstica,no,3,52013,vegano,53
+323,ana,vargas,renca,6518042-1,1998-06-11,agnóstica,si,2,129788,no aplica,18
+324,juan,pérez,las condes,19110388-2,1987-12-23,agnóstica,no,2,449077,no aplica,54
+325,felipe,gonzález,providencia,9331767-k,1994-10-21,agnóstica,no,2,963057,vegetariano,58
+326,tomás,gonzález,vitacura,16411099-0,1986-09-24,atea,si,3,471356,no aplica,46
+327,pedro,rodríguez,providencia,1908953-3,2000-03-12,mormona,si,3,271504,vegetariano,20
+328,tomás,lópez,renca,23822592-2,1996-10-15,testigos de jehová,si,4,400522,normal,52
+329,ana,martínez,conchalí,3851795-3,1978-05-25,evangélica,si,3,157264,vegano,25
+330,diego,díaz,conchalí,23861231-4,1975-07-03,católica,si,2,899297,no aplica,10
+331,francisca,silva,vitacura,17656436-9,1983-01-14,agnóstica,no,5,338739,normal,34
+332,juan,morales,providencia,18304561-k,1998-04-20,católica,si,2,336076,vegano,30
+333,valentina,rodríguez,renca,10819728-5,1987-04-02,atea,si,4,794426,normal,58
+334,camila,muñoz,renca,4200243-7,1984-12-03,mormona,no,4,582787,normal,41
+335,catalina,morales,vitacura,6906603-8,1972-05-22,mormona,no,2,874798,vegetariano,21
+336,felipe,vargas,renca,1231851-0,1982-05-07,evangélica,si,5,512581,normal,47
+337,catalina,vargas,las condes,6052984-1,1991-05-27,testigos de jehová,no,1,906291,normal,23
+338,felipe,silva,las condes,6789303-4,1986-07-18,atea,si,2,401533,normal,30
+339,felipe,rodríguez,conchalí,14701663-8,1976-06-10,agnóstica,si,3,300718,no aplica,49
+340,ana,contreras,las condes,22753488-5,1980-07-19,atea,si,3,934947,no aplica,18
+341,francisca,díaz,providencia,5231531-k,1989-05-17,testigos de jehová,no,2,97056,vegetariano,32
+342,javiera,muñoz,las condes,22420639-9,1988-03-04,evangélica,si,5,391333,normal,48
+343,catalina,gonzález,providencia,7742319-2,1970-04-12,mormona,si,2,591733,normal,54
+344,maría,torres,renca,16405355-5,1974-06-24,católica,no,5,414040,vegetariano,31
+345,tomás,gonzález,las condes,14814857-0,1995-05-07,católica,no,5,755480,no aplica,45
+346,javiera,martínez,renca,1339292-7,1992-12-03,católica,no,1,763269,vegetariano,18
+347,francisca,muñoz,providencia,9944454-1,1972-10-19,testigos de jehová,no,5,206957,normal,26
+348,maría,rodríguez,conchalí,1159097-7,1985-01-18,mormona,no,2,236297,vegetariano,18
+349,diego,lópez,las condes,12929101-k,1994-11-17,agnóstica,no,1,247400,normal,35
+350,valentina,rodríguez,providencia,8152889-6,1988-08-08,agnóstica,no,3,972393,no aplica,15
+351,diego,rodríguez,las condes,4528708-4,1976-01-14,evangélica,no,2,187439,no aplica,50
+352,ana,vargas,providencia,19828519-6,1989-04-04,evangélica,si,4,292197,vegetariano,38
+353,catalina,vargas,providencia,10610743-2,1983-06-07,testigos de jehová,si,2,361319,no aplica,49
+354,pedro,torres,vitacura,12030699-5,1998-08-03,mormona,si,3,974788,no aplica,20
+355,carolina,soto,vitacura,2459983-3,1971-03-02,evangélica,no,1,188085,vegano,60
+356,sebastián,contreras,renca,9325057-5,1994-12-13,testigos de jehová,si,4,983730,vegano,25
+357,juan,martínez,renca,16274481-k,1993-06-28,evangélica,no,2,651241,vegano,16
+358,felipe,lópez,vitacura,2243032-7,1975-07-20,mormona,no,4,915759,vegano,58
+359,felipe,soto,providencia,2006863-9,1988-06-08,mormona,no,4,601822,normal,44
+360,maría,rojas,conchalí,14944822-5,2000-01-17,católica,si,4,71219,vegano,46
+361,javiera,pérez,las condes,22000423-6,1990-08-12,católica,no,4,127341,no aplica,48
+362,sebastián,morales,providencia,15775139-5,1998-04-03,evangélica,si,5,6415,no aplica,16
+363,ana,contreras,las condes,6162739-1,1983-07-04,mormona,no,4,846232,vegano,10
+364,carolina,morales,providencia,23581782-9,1976-09-09,evangélica,no,5,378207,no aplica,55
+365,francisca,muñoz,las condes,8034827-4,1995-12-17,testigos de jehová,no,3,757148,vegetariano,16
+366,daniel,silva,providencia,18160597-9,1970-09-14,católica,no,1,880839,vegetariano,27
+367,ana,rodríguez,renca,20732615-1,2000-05-14,agnóstica,no,3,56008,normal,21
+368,ana,rodríguez,vitacura,24789861-1,1985-12-10,evangélica,si,5,2516,no aplica,28
+369,ana,soto,renca,13739417-0,1990-05-03,agnóstica,si,2,346607,no aplica,16
+370,pedro,rodríguez,conchalí,8269370-k,1987-05-10,testigos de jehová,si,3,780223,vegetariano,17
+371,felipe,rodríguez,providencia,8640586-5,1983-02-15,agnóstica,no,5,823940,vegetariano,12
+372,daniel,soto,las condes,17110255-3,1995-04-07,testigos de jehová,si,3,464871,vegano,51
+373,diego,martínez,conchalí,2214732-3,1993-07-14,agnóstica,si,4,971115,vegano,27
+374,camila,muñoz,providencia,24765584-0,1983-04-10,testigos de jehová,no,3,157558,no aplica,49
+375,valentina,silva,vitacura,19356003-2,1970-06-05,católica,si,1,57178,no aplica,24
+376,francisca,rojas,renca,4567732-k,1985-09-12,atea,si,2,680512,vegano,22
+377,catalina,soto,las condes,22292902-4,1986-01-24,mormona,si,1,886718,vegetariano,12
+378,felipe,soto,vitacura,23987640-4,1983-12-24,atea,si,4,882481,no aplica,35
+379,diego,lópez,conchalí,12570587-1,1970-07-08,evangélica,si,2,953216,vegano,43
+380,catalina,silva,conchalí,16216534-8,1995-12-05,testigos de jehová,si,4,902348,vegetariano,35
+381,catalina,contreras,las condes,21069574-5,1984-12-19,evangélica,si,3,176956,normal,40
+382,carolina,morales,providencia,15535080-6,1998-03-11,agnóstica,si,3,680933,vegano,36
+383,felipe,soto,vitacura,20949472-8,1979-04-08,católica,no,4,388897,vegetariano,13
+384,camila,lópez,conchalí,11875524-3,1980-09-20,católica,si,4,758105,normal,27
+385,javiera,contreras,conchalí,24797276-5,1985-06-25,testigos de jehová,no,3,816743,normal,41
+386,camila,torres,vitacura,16783879-0,1993-11-19,atea,no,3,176002,vegetariano,37
+387,sebastián,gonzález,providencia,20213286-3,1975-10-07,evangélica,no,5,665713,vegetariano,21
+388,diego,rodríguez,providencia,7240282-0,1998-12-04,católica,no,2,909637,normal,49
+389,francisca,silva,vitacura,4259623-k,1991-07-20,evangélica,no,5,637840,no aplica,52
+390,francisca,fuentes,conchalí,8960553-9,1973-01-27,católica,no,5,825034,vegetariano,48
+391,valentina,muñoz,renca,2209794-6,1989-06-06,testigos de jehová,si,3,17957,normal,56
+392,diego,gonzález,las condes,4657173-8,1974-03-13,agnóstica,no,4,280618,vegano,44
+393,valentina,torres,conchalí,20667753-8,1994-09-17,agnóstica,si,1,189990,vegetariano,47
+394,catalina,díaz,vitacura,2395588-1,1995-10-18,agnóstica,si,2,578611,vegetariano,18
+395,juan,lópez,conchalí,3411364-5,1974-07-02,atea,no,5,598172,normal,42
+396,juan,muñoz,renca,15011435-7,1990-10-23,evangélica,no,3,272633,normal,25
+397,felipe,pérez,conchalí,21938924-8,1975-11-05,agnóstica,no,1,975883,vegano,55
+398,felipe,contreras,las condes,20142494-1,1992-03-18,católica,si,5,365477,normal,21
+399,daniel,gonzález,conchalí,17017867-k,1993-02-28,católica,si,2,10308,no aplica,27
+400,camila,soto,providencia,4403884-6,1994-12-18,evangélica,si,3,842453,normal,18
+401,sebastián,contreras,conchalí,16842578-3,1991-11-24,agnóstica,si,2,175544,normal,55
+402,sebastián,díaz,providencia,14997168-8,1992-10-16,mormona,no,3,295526,vegano,31
+403,diego,silva,conchalí,20615827-1,1988-09-26,evangélica,no,1,277916,vegano,46
+404,daniel,silva,renca,3946704-6,1979-05-19,agnóstica,si,4,888981,no aplica,21
+405,daniel,lópez,vitacura,16455091-5,1979-07-03,testigos de jehová,si,4,22211,no aplica,19
+406,sebastián,martínez,renca,24314965-7,1993-12-25,mormona,si,1,384271,no aplica,22
+407,valentina,martínez,providencia,22573300-7,1979-10-08,católica,no,4,162855,vegano,24
+408,daniel,rojas,providencia,10612234-2,1980-07-16,evangélica,no,5,178546,normal,53
+409,valentina,vargas,providencia,20133103-k,1993-10-21,católica,si,1,696582,no aplica,24
+410,daniel,fuentes,renca,21243590-2,1995-11-11,agnóstica,si,1,554420,no aplica,44
+411,diego,rodríguez,vitacura,24498273-5,1986-01-06,atea,no,3,287317,no aplica,13
+412,daniel,soto,renca,3016089-4,1995-03-03,mormona,si,3,899702,normal,54
+413,carolina,martínez,conchalí,3788054-k,1987-01-22,atea,no,3,446843,vegano,59
+414,carolina,martínez,conchalí,14575625-1,1977-09-01,atea,si,2,217696,normal,18
+415,juan,fuentes,providencia,3930321-3,1977-07-05,atea,si,1,906584,vegano,48
+416,camila,muñoz,vitacura,22998861-1,1979-12-08,agnóstica,no,3,560417,no aplica,51
+417,carolina,torres,las condes,10683767-8,1987-05-27,católica,si,3,348260,normal,44
+418,juan,muñoz,las condes,9445525-1,1975-06-21,testigos de jehová,si,4,459283,vegetariano,21
+419,pedro,lópez,conchalí,9642899-5,1971-06-18,atea,si,5,622084,no aplica,29
+420,maría,morales,renca,20054030-1,1970-04-02,agnóstica,si,2,433911,no aplica,33
+421,francisca,soto,providencia,6163251-4,1995-05-07,evangélica,no,4,805553,vegano,11
+422,felipe,gonzález,las condes,21511422-8,1998-06-25,católica,si,2,178935,normal,40
+423,valentina,díaz,renca,20316972-8,1986-11-19,católica,si,5,170498,vegano,13
+424,catalina,gonzález,providencia,9366842-1,1988-11-24,atea,no,4,861480,vegetariano,48
+425,javiera,muñoz,vitacura,24474238-6,1985-10-27,evangélica,si,1,121717,vegetariano,48
+426,francisca,martínez,conchalí,16015576-0,1994-02-26,evangélica,si,3,718435,no aplica,13
+427,valentina,martínez,renca,23638998-7,1992-07-06,católica,si,3,272566,no aplica,43
+428,tomás,lópez,conchalí,12412340-2,1970-05-12,testigos de jehová,no,4,982152,vegano,21
+429,valentina,rojas,las condes,6134681-3,1984-06-16,evangélica,si,3,376077,vegetariano,24
+430,javiera,martínez,vitacura,4104207-9,1983-05-21,agnóstica,si,1,657709,normal,52
+431,francisca,morales,renca,21222323-9,1971-04-13,evangélica,no,2,106722,vegano,57
+432,javiera,contreras,las condes,22009362-k,1982-12-01,atea,si,2,297478,vegetariano,21
+433,valentina,morales,vitacura,21639744-4,1981-10-25,agnóstica,si,3,161069,normal,40
+434,carolina,morales,conchalí,7493578-8,1977-11-17,evangélica,si,5,550551,normal,55
+435,juan,rodríguez,renca,4721345-2,1988-10-13,testigos de jehová,no,4,455080,vegetariano,43
+436,carolina,martínez,vitacura,21109147-9,1985-09-08,agnóstica,si,2,45893,vegano,59
+437,juan,pérez,renca,17004255-7,1974-10-11,testigos de jehová,no,1,182108,no aplica,37
+438,valentina,silva,vitacura,14690773-3,1975-12-17,católica,si,1,293902,no aplica,51
+439,maría,soto,providencia,5975926-4,1981-05-23,evangélica,si,5,339080,vegano,60
+440,camila,lópez,conchalí,2614158-3,1994-07-01,agnóstica,si,1,460522,normal,19
+441,daniel,martínez,las condes,13345193-5,1971-08-10,atea,si,2,899451,normal,41
+442,valentina,gonzález,renca,2609754-1,1990-06-02,atea,no,5,396410,no aplica,34
+443,sebastián,fuentes,conchalí,6450906-3,1983-01-04,mormona,no,2,866396,normal,36
+444,sebastián,torres,renca,11435348-5,1975-04-06,católica,no,4,511235,vegetariano,39
+445,ana,torres,providencia,5982796-0,1976-11-06,mormona,si,5,911815,vegano,13
+446,camila,rojas,conchalí,5845680-2,1999-04-05,mormona,si,3,845048,no aplica,56
+447,juan,gonzález,renca,4912735-9,1984-02-18,católica,no,4,57194,normal,28
+448,sebastián,muñoz,las condes,5448997-8,1985-12-28,agnóstica,no,5,662428,normal,25
+449,maría,pérez,providencia,19550856-9,2000-11-21,agnóstica,si,5,731075,no aplica,27
+450,valentina,gonzález,renca,11521612-0,1973-08-17,agnóstica,si,4,411221,normal,26
+451,ana,lópez,providencia,4804312-7,1999-01-03,mormona,no,1,801220,no aplica,54
+452,diego,morales,renca,20307135-3,1974-01-16,agnóstica,no,5,168520,vegano,25
+453,javiera,rodríguez,vitacura,17235069-0,1980-09-05,católica,si,5,899527,normal,43
+454,francisca,vargas,las condes,21645464-2,1982-03-25,testigos de jehová,no,5,817310,no aplica,25
+455,javiera,muñoz,renca,11822897-9,1983-02-11,evangélica,si,3,162276,vegano,25
+456,valentina,vargas,renca,18941366-1,1984-02-16,atea,si,4,867653,vegano,36
+457,diego,fuentes,renca,12550451-5,1971-03-20,mormona,si,2,989980,no aplica,36
+458,carolina,pérez,renca,10458483-7,1980-09-24,agnóstica,si,3,2543,vegano,60
+459,valentina,contreras,providencia,22804718-k,1975-11-14,atea,si,2,159600,vegetariano,38
+460,catalina,martínez,las condes,8515077-4,1996-08-27,atea,si,2,974749,vegano,44
+461,catalina,rojas,las condes,22124977-1,2000-04-15,católica,no,1,18110,normal,24
+462,tomás,lópez,renca,4047751-9,1995-01-19,agnóstica,si,5,780500,no aplica,57
+463,ana,contreras,las condes,19288761-5,1976-10-01,mormona,no,4,407266,vegano,46
+464,felipe,morales,renca,17638645-2,1987-10-09,atea,no,1,611218,vegetariano,19
+465,felipe,morales,conchalí,24972687-7,1996-05-27,evangélica,no,3,998229,no aplica,25
+466,juan,pérez,conchalí,15671614-6,1996-03-05,testigos de jehová,no,5,234208,vegano,57
+467,tomás,muñoz,las condes,8728369-0,1996-06-09,católica,no,1,710062,vegano,56
+468,tomás,fuentes,conchalí,22116966-2,1973-10-17,católica,no,1,790197,normal,12
+469,diego,morales,conchalí,2748358-5,1987-05-13,mormona,si,4,736165,vegano,35
+470,camila,vargas,providencia,11938379-k,1991-04-02,testigos de jehová,no,3,146183,no aplica,57
+471,tomás,díaz,vitacura,1018472-k,2000-09-07,testigos de jehová,no,4,543030,vegano,57
+472,catalina,contreras,vitacura,18375281-2,1977-08-15,atea,no,1,688753,vegetariano,13
+473,ana,torres,providencia,17174489-k,1976-06-26,católica,no,5,803228,vegetariano,44
+474,diego,contreras,vitacura,18207887-5,1994-02-14,mormona,no,3,659907,normal,36
+475,catalina,rojas,las condes,22778636-1,1990-08-23,atea,si,1,412796,no aplica,30
+476,tomás,muñoz,conchalí,10525772-4,1987-01-28,evangélica,no,3,12549,no aplica,26
+477,tomás,contreras,providencia,19980729-3,1987-05-07,agnóstica,no,4,724939,vegano,39
+478,javiera,pérez,renca,3804958-5,1992-08-13,católica,no,5,735401,normal,42
+479,valentina,silva,las condes,13973799-7,1980-10-03,católica,si,4,899591,vegetariano,41
+480,catalina,silva,conchalí,6983602-k,1985-09-05,testigos de jehová,si,2,607944,no aplica,47
+481,carolina,contreras,las condes,3123663-0,1999-08-05,evangélica,no,2,436471,normal,18
+482,ana,soto,conchalí,3160640-3,1985-11-23,evangélica,no,3,805524,no aplica,25
+483,sebastián,silva,providencia,6189211-7,1987-12-10,testigos de jehová,si,5,435810,vegano,54
+484,sebastián,morales,vitacura,18266773-0,1979-11-17,agnóstica,no,2,975768,no aplica,23
+485,valentina,soto,las condes,12425725-5,1982-10-07,atea,no,5,713429,vegano,58
+486,sebastián,díaz,las condes,16743425-8,1971-11-25,católica,no,1,518375,no aplica,38
+487,ana,martínez,providencia,9443821-7,1979-06-12,agnóstica,no,2,563509,vegano,43
+488,catalina,gonzález,vitacura,11954695-8,1994-12-11,mormona,si,4,786174,normal,22
+489,ana,contreras,vitacura,13957170-3,1974-06-14,católica,no,5,801331,no aplica,60
+490,valentina,rojas,providencia,17666947-0,1976-02-17,testigos de jehová,si,1,350921,vegetariano,57
+491,felipe,gonzález,renca,15860417-5,1975-03-25,evangélica,no,3,800819,no aplica,10
+492,daniel,muñoz,las condes,4926323-6,1977-07-22,atea,si,5,125446,normal,39
+493,valentina,rojas,vitacura,7945598-9,1970-08-14,agnóstica,no,5,337448,vegetariano,35
+494,daniel,muñoz,conchalí,17457915-6,1996-06-10,agnóstica,no,2,253657,vegetariano,20
+495,camila,lópez,vitacura,14711040-5,1974-09-01,agnóstica,si,4,767999,no aplica,11
+496,diego,contreras,vitacura,13008715-9,1988-07-27,católica,si,2,265863,vegetariano,41
+497,catalina,rodríguez,conchalí,3013815-5,1976-09-08,atea,no,5,929033,vegano,10
+498,daniel,martínez,vitacura,3825712-9,1999-09-26,agnóstica,si,5,111646,vegetariano,56
+499,carolina,morales,las condes,17690792-4,1996-07-13,atea,no,2,430777,vegano,50
+500,sebastián,fuentes,vitacura,3214738-0,1996-08-25,mormona,no,2,885034,vegetariano,20

@@ -1,0 +1,501 @@
+codigo_cliente,tarjeta_beneficios,tipo_cliente,promedio_compras,tipo_alimentacion,tiempo_permanencia_min
+1,SI,3,397192,normal,15
+2,NO,4,36830,No Aplica,23
+3,SI,5,282014,vegetariano,20
+4,SI,2,411091,vegetariano,31
+5,NO,3,804383,normal,33
+6,NO,1,23105,No Aplica,55
+7,SI,3,616131,vegano,60
+8,NO,5,113022,normal,37
+9,SI,3,480291,No Aplica,49
+10,NO,4,221219,No Aplica,25
+11,SI,4,717537,vegetariano,56
+12,SI,2,594132,vegetariano,46
+13,NO,3,531171,No Aplica,11
+14,NO,3,264756,vegano,58
+15,SI,1,505813,normal,55
+16,NO,5,413316,No Aplica,43
+17,NO,1,704141,No Aplica,44
+18,SI,4,884032,No Aplica,16
+19,SI,4,190359,vegetariano,24
+20,SI,4,233465,vegano,41
+21,NO,3,489120,normal,40
+22,SI,4,198902,No Aplica,32
+23,NO,3,900358,vegetariano,29
+24,SI,4,395723,vegano,53
+25,SI,2,976782,vegetariano,55
+26,NO,5,839209,vegano,17
+27,SI,2,810752,normal,41
+28,NO,5,156405,normal,41
+29,SI,5,736638,vegano,42
+30,SI,5,644311,vegano,43
+31,SI,2,541816,vegetariano,28
+32,SI,5,764816,normal,27
+33,SI,2,354297,vegetariano,58
+34,SI,1,173850,vegano,46
+35,NO,2,271605,normal,33
+36,NO,3,378067,normal,49
+37,SI,4,497113,normal,60
+38,SI,3,42966,vegano,33
+39,NO,2,294678,vegetariano,28
+40,NO,4,63089,normal,22
+41,SI,2,774181,vegetariano,29
+42,NO,2,820911,No Aplica,56
+43,NO,5,231575,normal,56
+44,NO,2,914008,No Aplica,15
+45,NO,4,476224,normal,36
+46,SI,5,151318,normal,30
+47,NO,3,819949,normal,15
+48,SI,3,694398,vegano,20
+49,NO,2,136587,No Aplica,22
+50,NO,1,833412,normal,35
+51,SI,2,150795,vegetariano,31
+52,NO,3,952147,vegetariano,15
+53,NO,5,973431,vegetariano,24
+54,SI,2,48908,No Aplica,40
+55,SI,5,936270,vegano,56
+56,SI,1,314467,No Aplica,57
+57,NO,4,816415,vegano,45
+58,SI,2,525814,vegetariano,18
+59,NO,5,723360,normal,60
+60,NO,2,691100,vegano,39
+61,SI,2,341488,vegano,11
+62,SI,4,550706,vegetariano,48
+63,SI,5,970380,vegetariano,26
+64,NO,2,746005,vegano,26
+65,SI,4,492850,No Aplica,13
+66,SI,4,694209,normal,50
+67,NO,3,585694,No Aplica,56
+68,NO,4,57768,No Aplica,38
+69,NO,5,61587,No Aplica,28
+70,NO,1,792326,normal,52
+71,SI,4,225354,vegetariano,27
+72,SI,3,237354,normal,46
+73,NO,5,173956,normal,50
+74,NO,5,229081,vegano,38
+75,SI,4,823924,No Aplica,16
+76,SI,4,969002,vegetariano,54
+77,NO,3,143067,vegetariano,46
+78,NO,4,485701,normal,38
+79,SI,4,603056,vegano,42
+80,SI,3,238000,vegetariano,21
+81,NO,2,637300,normal,56
+82,SI,3,888618,normal,11
+83,NO,3,734047,vegetariano,21
+84,SI,4,473736,normal,10
+85,SI,1,779918,normal,48
+86,SI,1,45211,vegano,34
+87,NO,4,687791,vegetariano,55
+88,SI,4,779933,normal,20
+89,SI,5,293281,normal,55
+90,NO,3,45456,No Aplica,44
+91,NO,1,89017,normal,25
+92,SI,3,831277,No Aplica,18
+93,NO,2,878632,vegano,56
+94,NO,3,241416,vegano,58
+95,SI,3,974262,normal,28
+96,SI,2,204696,normal,48
+97,SI,5,375814,vegetariano,16
+98,SI,2,574761,No Aplica,59
+99,NO,4,791544,normal,48
+100,NO,2,967512,vegano,12
+101,SI,5,861064,vegano,57
+102,SI,5,21410,normal,35
+103,NO,3,639903,vegano,57
+104,NO,5,588438,normal,45
+105,NO,2,916162,No Aplica,13
+106,NO,2,742597,vegano,20
+107,SI,2,604442,normal,17
+108,SI,5,806914,normal,19
+109,NO,4,793534,No Aplica,36
+110,SI,3,729754,normal,43
+111,SI,2,720046,vegano,13
+112,SI,1,830064,vegano,10
+113,NO,4,397041,No Aplica,44
+114,NO,3,77526,vegetariano,41
+115,NO,5,215988,normal,34
+116,NO,2,564228,No Aplica,43
+117,SI,2,961715,vegano,43
+118,NO,4,322401,vegetariano,30
+119,SI,3,103959,vegano,42
+120,NO,2,610626,normal,51
+121,SI,1,371151,normal,42
+122,SI,1,128001,vegetariano,53
+123,SI,3,559434,normal,19
+124,SI,4,825601,vegano,35
+125,SI,4,6066,vegano,48
+126,SI,3,501318,normal,27
+127,NO,3,477235,vegano,31
+128,NO,2,237065,vegano,48
+129,SI,1,471302,vegetariano,59
+130,SI,3,407734,vegetariano,55
+131,NO,2,278896,No Aplica,42
+132,SI,2,189657,normal,48
+133,SI,1,148892,vegetariano,56
+134,SI,2,142411,No Aplica,36
+135,NO,1,455324,normal,58
+136,SI,4,221885,vegetariano,52
+137,SI,4,942107,vegetariano,59
+138,SI,5,842962,vegano,11
+139,SI,3,3454,normal,23
+140,NO,3,658004,No Aplica,15
+141,SI,1,301958,normal,22
+142,NO,4,733817,normal,60
+143,NO,1,715822,vegano,22
+144,SI,2,53439,No Aplica,13
+145,SI,2,12970,vegetariano,25
+146,SI,2,187908,vegano,41
+147,SI,3,571041,vegano,12
+148,SI,1,495608,vegano,42
+149,SI,4,75288,No Aplica,59
+150,SI,5,637450,vegetariano,19
+151,SI,4,655221,vegano,45
+152,NO,5,819985,vegano,22
+153,SI,4,346446,No Aplica,16
+154,SI,1,187511,normal,13
+155,SI,5,599442,vegetariano,21
+156,NO,4,601559,normal,14
+157,NO,3,89069,vegetariano,10
+158,NO,2,699148,vegetariano,33
+159,NO,3,915714,normal,30
+160,SI,1,235959,vegetariano,19
+161,NO,3,980415,No Aplica,35
+162,SI,4,884537,No Aplica,60
+163,NO,4,903185,vegano,16
+164,NO,2,792922,No Aplica,50
+165,SI,2,365714,normal,55
+166,NO,5,156109,vegetariano,55
+167,NO,2,704321,vegano,18
+168,NO,1,200756,vegetariano,39
+169,SI,4,662642,vegetariano,36
+170,NO,5,855101,vegano,28
+171,NO,1,495892,normal,12
+172,NO,1,336368,No Aplica,16
+173,SI,5,705066,normal,26
+174,SI,3,951399,No Aplica,49
+175,NO,1,550679,vegetariano,22
+176,NO,5,315276,No Aplica,43
+177,SI,4,388854,vegetariano,46
+178,NO,2,78786,No Aplica,53
+179,NO,2,634893,vegano,53
+180,SI,2,239839,vegetariano,56
+181,SI,2,818130,normal,23
+182,SI,5,151326,vegano,27
+183,SI,2,744544,vegetariano,13
+184,NO,1,844343,vegano,38
+185,NO,5,266495,normal,50
+186,SI,1,193989,vegano,36
+187,SI,3,92187,vegetariano,21
+188,NO,1,836969,vegano,28
+189,SI,4,357836,normal,42
+190,SI,4,220829,No Aplica,38
+191,SI,4,430068,vegano,59
+192,NO,4,899428,No Aplica,25
+193,SI,1,328059,normal,11
+194,SI,2,579079,No Aplica,20
+195,NO,1,178237,vegano,55
+196,SI,5,852644,normal,51
+197,NO,5,59872,vegano,53
+198,SI,3,842498,vegano,47
+199,SI,4,510022,normal,41
+200,NO,4,120270,normal,13
+201,SI,4,684836,vegetariano,10
+202,NO,3,74733,No Aplica,27
+203,NO,2,85723,No Aplica,36
+204,NO,3,254195,vegano,18
+205,SI,1,701842,normal,52
+206,NO,3,842715,No Aplica,29
+207,SI,1,395777,vegetariano,36
+208,NO,2,326919,vegano,56
+209,SI,2,611867,vegano,12
+210,NO,5,454108,vegano,54
+211,NO,5,716464,No Aplica,38
+212,SI,5,349684,vegano,23
+213,NO,1,53579,normal,51
+214,SI,4,982710,normal,56
+215,NO,4,704399,vegano,11
+216,NO,3,161985,vegetariano,27
+217,NO,1,10299,vegetariano,21
+218,NO,5,903257,vegano,59
+219,NO,4,971881,vegetariano,38
+220,SI,1,879881,vegano,38
+221,SI,3,565994,normal,21
+222,NO,2,215487,No Aplica,50
+223,SI,1,570343,normal,36
+224,SI,3,19885,normal,12
+225,SI,1,917821,vegetariano,30
+226,NO,5,191893,normal,17
+227,NO,1,704711,normal,19
+228,NO,1,371665,vegetariano,52
+229,SI,4,614948,vegano,48
+230,NO,5,242152,normal,54
+231,NO,5,294352,vegano,38
+232,SI,4,868439,vegano,19
+233,NO,2,34844,No Aplica,39
+234,NO,5,779526,vegano,21
+235,SI,1,897522,vegetariano,47
+236,SI,4,307609,normal,48
+237,SI,4,764325,No Aplica,27
+238,SI,4,247718,vegano,18
+239,SI,1,50308,vegano,35
+240,NO,2,232886,No Aplica,53
+241,NO,3,49355,vegetariano,60
+242,NO,2,787034,No Aplica,34
+243,SI,1,210866,vegetariano,31
+244,SI,5,222516,normal,19
+245,NO,3,409189,vegano,36
+246,SI,4,165121,No Aplica,44
+247,SI,1,938177,vegano,41
+248,NO,2,221035,normal,45
+249,SI,1,522053,normal,45
+250,NO,4,260999,vegano,16
+251,NO,4,211082,normal,15
+252,SI,1,411474,vegetariano,56
+253,SI,4,160940,vegetariano,19
+254,SI,4,478374,normal,20
+255,NO,1,208236,No Aplica,29
+256,NO,1,621966,vegano,47
+257,NO,3,2893,vegetariano,17
+258,NO,3,505267,normal,39
+259,NO,2,339260,normal,13
+260,SI,3,485252,No Aplica,13
+261,NO,5,563476,No Aplica,28
+262,NO,2,363196,normal,17
+263,NO,4,148120,normal,24
+264,SI,1,824264,No Aplica,51
+265,NO,3,163400,vegetariano,23
+266,SI,3,380628,No Aplica,37
+267,NO,2,951914,vegetariano,26
+268,NO,3,674881,vegano,31
+269,SI,3,105846,vegetariano,22
+270,SI,2,661295,vegano,54
+271,SI,1,500926,No Aplica,20
+272,SI,2,129957,normal,51
+273,SI,1,423396,normal,29
+274,NO,1,632059,vegetariano,30
+275,SI,4,159130,vegetariano,41
+276,NO,3,377991,normal,56
+277,SI,5,303208,normal,45
+278,NO,5,197552,No Aplica,27
+279,SI,4,784367,No Aplica,20
+280,SI,3,479131,vegano,58
+281,SI,3,297387,vegetariano,14
+282,SI,3,899010,vegetariano,35
+283,SI,5,974885,vegano,26
+284,SI,1,126262,vegano,40
+285,NO,4,398130,vegetariano,44
+286,SI,5,877291,No Aplica,40
+287,NO,5,801580,No Aplica,36
+288,NO,4,737753,No Aplica,36
+289,SI,5,315549,No Aplica,24
+290,SI,1,992738,normal,12
+291,SI,3,48614,normal,39
+292,SI,3,251953,vegano,57
+293,SI,1,615829,vegano,52
+294,NO,1,87764,No Aplica,46
+295,SI,3,775847,No Aplica,18
+296,NO,5,353433,vegetariano,36
+297,SI,5,290081,vegetariano,18
+298,NO,4,820598,normal,54
+299,SI,1,740154,normal,57
+300,NO,5,271485,No Aplica,48
+301,SI,1,503908,normal,47
+302,SI,5,174631,normal,56
+303,NO,2,185403,No Aplica,60
+304,NO,3,48310,vegano,19
+305,NO,3,157589,normal,14
+306,NO,1,40644,normal,58
+307,SI,4,440916,normal,12
+308,SI,4,94587,vegetariano,37
+309,NO,4,752203,normal,24
+310,SI,4,516630,vegetariano,28
+311,SI,4,410464,vegetariano,44
+312,SI,4,564279,vegano,34
+313,NO,5,927750,No Aplica,14
+314,NO,3,644443,vegano,13
+315,SI,2,817310,No Aplica,30
+316,SI,2,463940,normal,34
+317,SI,3,291009,vegano,51
+318,NO,1,785818,normal,24
+319,NO,3,764285,vegano,29
+320,SI,2,245574,No Aplica,17
+321,NO,1,187851,normal,45
+322,NO,3,52013,vegano,53
+323,SI,2,129788,No Aplica,18
+324,NO,2,449077,No Aplica,54
+325,NO,2,963057,vegetariano,58
+326,SI,3,471356,No Aplica,46
+327,SI,3,271504,vegetariano,20
+328,SI,4,400522,normal,52
+329,SI,3,157264,vegano,25
+330,SI,2,899297,No Aplica,10
+331,NO,5,338739,normal,34
+332,SI,2,336076,vegano,30
+333,SI,4,794426,normal,58
+334,NO,4,582787,normal,41
+335,NO,2,874798,vegetariano,21
+336,SI,5,512581,normal,47
+337,NO,1,906291,normal,23
+338,SI,2,401533,normal,30
+339,SI,3,300718,No Aplica,49
+340,SI,3,934947,No Aplica,18
+341,NO,2,97056,vegetariano,32
+342,SI,5,391333,normal,48
+343,SI,2,591733,normal,54
+344,NO,5,414040,vegetariano,31
+345,NO,5,755480,No Aplica,45
+346,NO,1,763269,vegetariano,18
+347,NO,5,206957,normal,26
+348,NO,2,236297,vegetariano,18
+349,NO,1,247400,normal,35
+350,NO,3,972393,No Aplica,15
+351,NO,2,187439,No Aplica,50
+352,SI,4,292197,vegetariano,38
+353,SI,2,361319,No Aplica,49
+354,SI,3,974788,No Aplica,20
+355,NO,1,188085,vegano,60
+356,SI,4,983730,vegano,25
+357,NO,2,651241,vegano,16
+358,NO,4,915759,vegano,58
+359,NO,4,601822,normal,44
+360,SI,4,71219,vegano,46
+361,NO,4,127341,No Aplica,48
+362,SI,5,6415,No Aplica,16
+363,NO,4,846232,vegano,10
+364,NO,5,378207,No Aplica,55
+365,NO,3,757148,vegetariano,16
+366,NO,1,880839,vegetariano,27
+367,NO,3,56008,normal,21
+368,SI,5,2516,No Aplica,28
+369,SI,2,346607,No Aplica,16
+370,SI,3,780223,vegetariano,17
+371,NO,5,823940,vegetariano,12
+372,SI,3,464871,vegano,51
+373,SI,4,971115,vegano,27
+374,NO,3,157558,No Aplica,49
+375,SI,1,57178,No Aplica,24
+376,SI,2,680512,vegano,22
+377,SI,1,886718,vegetariano,12
+378,SI,4,882481,No Aplica,35
+379,SI,2,953216,vegano,43
+380,SI,4,902348,vegetariano,35
+381,SI,3,176956,normal,40
+382,SI,3,680933,vegano,36
+383,NO,4,388897,vegetariano,13
+384,SI,4,758105,normal,27
+385,NO,3,816743,normal,41
+386,NO,3,176002,vegetariano,37
+387,NO,5,665713,vegetariano,21
+388,NO,2,909637,normal,49
+389,NO,5,637840,No Aplica,52
+390,NO,5,825034,vegetariano,48
+391,SI,3,17957,normal,56
+392,NO,4,280618,vegano,44
+393,SI,1,189990,vegetariano,47
+394,SI,2,578611,vegetariano,18
+395,NO,5,598172,normal,42
+396,NO,3,272633,normal,25
+397,NO,1,975883,vegano,55
+398,SI,5,365477,normal,21
+399,SI,2,10308,No Aplica,27
+400,SI,3,842453,normal,18
+401,SI,2,175544,normal,55
+402,NO,3,295526,vegano,31
+403,NO,1,277916,vegano,46
+404,SI,4,888981,No Aplica,21
+405,SI,4,22211,No Aplica,19
+406,SI,1,384271,No Aplica,22
+407,NO,4,162855,vegano,24
+408,NO,5,178546,normal,53
+409,SI,1,696582,No Aplica,24
+410,SI,1,554420,No Aplica,44
+411,NO,3,287317,No Aplica,13
+412,SI,3,899702,normal,54
+413,NO,3,446843,vegano,59
+414,SI,2,217696,normal,18
+415,SI,1,906584,vegano,48
+416,NO,3,560417,No Aplica,51
+417,SI,3,348260,normal,44
+418,SI,4,459283,vegetariano,21
+419,SI,5,622084,No Aplica,29
+420,SI,2,433911,No Aplica,33
+421,NO,4,805553,vegano,11
+422,SI,2,178935,normal,40
+423,SI,5,170498,vegano,13
+424,NO,4,861480,vegetariano,48
+425,SI,1,121717,vegetariano,48
+426,SI,3,718435,No Aplica,13
+427,SI,3,272566,No Aplica,43
+428,NO,4,982152,vegano,21
+429,SI,3,376077,vegetariano,24
+430,SI,1,657709,normal,52
+431,NO,2,106722,vegano,57
+432,SI,2,297478,vegetariano,21
+433,SI,3,161069,normal,40
+434,SI,5,550551,normal,55
+435,NO,4,455080,vegetariano,43
+436,SI,2,45893,vegano,59
+437,NO,1,182108,No Aplica,37
+438,SI,1,293902,No Aplica,51
+439,SI,5,339080,vegano,60
+440,SI,1,460522,normal,19
+441,SI,2,899451,normal,41
+442,NO,5,396410,No Aplica,34
+443,NO,2,866396,normal,36
+444,NO,4,511235,vegetariano,39
+445,SI,5,911815,vegano,13
+446,SI,3,845048,No Aplica,56
+447,NO,4,57194,normal,28
+448,NO,5,662428,normal,25
+449,SI,5,731075,No Aplica,27
+450,SI,4,411221,normal,26
+451,NO,1,801220,No Aplica,54
+452,NO,5,168520,vegano,25
+453,SI,5,899527,normal,43
+454,NO,5,817310,No Aplica,25
+455,SI,3,162276,vegano,25
+456,SI,4,867653,vegano,36
+457,SI,2,989980,No Aplica,36
+458,SI,3,2543,vegano,60
+459,SI,2,159600,vegetariano,38
+460,SI,2,974749,vegano,44
+461,NO,1,18110,normal,24
+462,SI,5,780500,No Aplica,57
+463,NO,4,407266,vegano,46
+464,NO,1,611218,vegetariano,19
+465,NO,3,998229,No Aplica,25
+466,NO,5,234208,vegano,57
+467,NO,1,710062,vegano,56
+468,NO,1,790197,normal,12
+469,SI,4,736165,vegano,35
+470,NO,3,146183,No Aplica,57
+471,NO,4,543030,vegano,57
+472,NO,1,688753,vegetariano,13
+473,NO,5,803228,vegetariano,44
+474,NO,3,659907,normal,36
+475,SI,1,412796,No Aplica,30
+476,NO,3,12549,No Aplica,26
+477,NO,4,724939,vegano,39
+478,NO,5,735401,normal,42
+479,SI,4,899591,vegetariano,41
+480,SI,2,607944,No Aplica,47
+481,NO,2,436471,normal,18
+482,NO,3,805524,No Aplica,25
+483,SI,5,435810,vegano,54
+484,NO,2,975768,No Aplica,23
+485,NO,5,713429,vegano,58
+486,NO,1,518375,No Aplica,38
+487,NO,2,563509,vegano,43
+488,SI,4,786174,normal,22
+489,NO,5,801331,No Aplica,60
+490,SI,1,350921,vegetariano,57
+491,NO,3,800819,No Aplica,10
+492,SI,5,125446,normal,39
+493,NO,5,337448,vegetariano,35
+494,NO,2,253657,vegetariano,20
+495,SI,4,767999,No Aplica,11
+496,SI,2,265863,vegetariano,41
+497,NO,5,929033,vegano,10
+498,SI,5,111646,vegetariano,56
+499,NO,2,430777,vegano,50
+500,NO,2,885034,vegetariano,20
