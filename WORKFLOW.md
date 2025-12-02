@@ -34,7 +34,9 @@ Ejecutar los scripts de Python en el siguiente orden:
     ```bash
     python silver_process.py
     ```
-3.  **Análisis y Agregación desde silver (Reporte Final):**
-    ```bash
-    python 
-    ```
+3.  **Análisis, agregación, dashboards desde silver:**
+    
+
+4. **Diagrama de arquitectura**
+
+    ![alt text](image.png)
